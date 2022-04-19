@@ -101,6 +101,7 @@
       ]
     },
     {
+      "id": "10",
       "name": "Lulu",
       "species": "Koala",
       "diet": "herbivore",
@@ -108,8 +109,7 @@
         "hungry",
         "zany",
         "loving"
-      ],
-      "id": "10"
+      ]
     }
   ]
 }
